@@ -1,0 +1,119 @@
+[2026-08-18 03:11:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:11:01 UTC] Completed reminder processing.
+[2026-08-18 03:12:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:12:01 UTC] Completed reminder processing.
+[2026-08-18 03:13:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:13:01 UTC] Completed reminder processing.
+[2026-08-18 03:14:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:14:01 UTC] Completed reminder processing.
+[2026-08-18 03:15:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:15:02 UTC] Completed reminder processing.
+[2026-08-18 03:16:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:16:01 UTC] Completed reminder processing.
+[2026-08-18 03:17:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:17:01 UTC] Completed reminder processing.
+[2026-08-18 03:18:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:18:01 UTC] Completed reminder processing.
+[2026-08-18 03:19:01 UTC] Starting Dischedule Reminder Worker...
+Found 1 pending reminder(s) to process.
+Processing reminder #5 for event 'AAAAA' (discord)... SUCCESS
+  -> Scheduled next recurring reminder at 2026-08-18 03:05:00 UTC
+[2026-08-18 03:19:01 UTC] Completed reminder processing.
+[2026-08-18 03:20:01 UTC] Starting Dischedule Reminder Worker...
+Found 1 pending reminder(s) to process.
+Processing reminder #6 for event 'AAAAA' (discord)... SUCCESS
+  -> Scheduled next recurring reminder at 2026-08-18 03:05:00 UTC
+[2026-08-18 03:20:07 UTC] Completed reminder processing.
+[2026-08-18 03:21:01 UTC] Starting Dischedule Reminder Worker...
+Found 1 pending reminder(s) to process.
+Processing reminder #7 for event 'AAAAA' (discord)... SUCCESS
+  -> Scheduled next recurring reminder at 2026-08-18 03:05:00 UTC
+[2026-08-18 03:21:01 UTC] Completed reminder processing.
+[2026-08-18 03:22:01 UTC] Starting Dischedule Reminder Worker...
+Found 1 pending reminder(s) to process.
+Processing reminder #8 for event 'AAAAA' (discord)... SUCCESS
+  -> Scheduled next recurring reminder at 2026-08-18 03:05:00 UTC
+[2026-08-18 03:22:01 UTC] Completed reminder processing.
+[2026-08-18 03:23:01 UTC] Starting Dischedule Reminder Worker...
+Found 1 pending reminder(s) to process.
+Processing reminder #9 for event 'AAAAA' (discord)... SUCCESS
+  -> Scheduled next recurring reminder at 2026-08-18 03:05:00 UTC
+[2026-08-18 03:23:02 UTC] Completed reminder processing.
+[2026-08-18 03:24:01 UTC] Starting Dischedule Reminder Worker...
+Found 1 pending reminder(s) to process.
+Processing reminder #10 for event 'AAAAA' (discord)... SUCCESS
+  -> Scheduled next recurring reminder at 2026-08-18 03:05:00 UTC
+[2026-08-18 03:24:01 UTC] Completed reminder processing.
+[2026-08-18 03:25:01 UTC] Starting Dischedule Reminder Worker...
+Found 1 pending reminder(s) to process.
+Processing reminder #11 for event 'AAAAA' (discord)... SUCCESS
+  -> Scheduled next recurring reminder at 2026-08-18 03:05:00 UTC
+[2026-08-18 03:25:02 UTC] Completed reminder processing.
+[2026-08-18 03:26:01 UTC] Starting Dischedule Reminder Worker...
+Found 1 pending reminder(s) to process.
+Processing reminder #12 for event 'AAAAA' (discord)... SUCCESS
+  -> Scheduled next recurring reminder at 2026-08-18 03:05:00 UTC
+[2026-08-18 03:26:01 UTC] Completed reminder processing.
+[2026-08-18 03:27:02 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:27:02 UTC] Completed reminder processing.
+[2026-08-18 03:28:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:28:01 UTC] Completed reminder processing.
+[2026-08-18 03:29:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:29:01 UTC] Completed reminder processing.
+[2026-08-18 03:30:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:30:01 UTC] Completed reminder processing.
+[2026-08-18 03:31:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:31:01 UTC] Completed reminder processing.
+[2026-08-18 03:32:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:32:01 UTC] Completed reminder processing.
+[2026-08-18 03:33:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:33:01 UTC] Completed reminder processing.
+[2026-08-18 03:34:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:34:01 UTC] Completed reminder processing.
+[2026-08-18 03:35:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:35:01 UTC] Completed reminder processing.
+[2026-08-18 03:36:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:36:01 UTC] Completed reminder processing.
+[2026-08-18 03:37:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:37:01 UTC] Completed reminder processing.
+[2026-08-18 03:38:02 UTC] Starting Dischedule Reminder Worker...
+Found 1 pending reminder(s) to process.
+Processing reminder #14 for event 'AAAAA' (discord)... SUCCESS
+FAILED: Call to protected method Core\Model::db() from global scope
+[2026-08-18 03:38:02 UTC] Completed reminder processing.
+[2026-08-18 03:39:01 UTC] Starting Dischedule Reminder Worker...
+Found 1 pending reminder(s) to process.
+Processing reminder #16 for event 'AAAAA' (discord)... SUCCESS
+FAILED: Call to protected method Core\Model::db() from global scope
+[2026-08-18 03:39:02 UTC] Completed reminder processing.
+[2026-08-18 03:40:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:40:01 UTC] Completed reminder processing.
+[2026-08-18 03:41:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:41:01 UTC] Completed reminder processing.
+[2026-08-18 03:42:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:42:01 UTC] Completed reminder processing.
+[2026-08-18 03:43:01 UTC] Starting Dischedule Reminder Worker...
+Found 0 pending reminder(s) to process.
+[2026-08-18 03:43:01 UTC] Completed reminder processing.
